@@ -1,1 +1,4 @@
 This code was made for dummies !
+Well, maybe I was wrong about my last statement.
+
+int v = 10;
